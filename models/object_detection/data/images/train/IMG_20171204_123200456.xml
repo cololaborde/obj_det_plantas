@@ -1,13 +1,13 @@
 <annotation>
-	<folder>ADVERSIDADES TOMATE</folder>
+	<folder>train</folder>
 	<filename>IMG_20171204_123200456.jpg</filename>
-	<path>C:\Users\mapo\Dropbox\ADVERSIDADES TOMATE\IMG_20171204_123200456.jpg</path>
+	<path>C:\Users\mapo\Documents\GitHub\obj_det_plantas\obj_det_plantas\models\object_detection\data\images\train\IMG_20171204_123200456.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2448</width>
-		<height>3264</height>
+		<width>640</width>
+		<height>480</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1017</xmin>
-			<ymin>1072</ymin>
-			<xmax>1150</xmax>
-			<ymax>1202</ymax>
+			<xmin>270</xmin>
+			<ymin>311</ymin>
+			<xmax>319</xmax>
+			<ymax>364</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1004</xmin>
-			<ymin>2105</ymin>
-			<xmax>1228</xmax>
-			<ymax>2483</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>negra</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1631</xmin>
-			<ymin>2165</ymin>
-			<xmax>1731</xmax>
-			<ymax>2276</ymax>
+			<xmin>262</xmin>
+			<ymin>158</ymin>
+			<xmax>300</xmax>
+			<ymax>174</ymax>
 		</bndbox>
 	</object>
 </annotation>

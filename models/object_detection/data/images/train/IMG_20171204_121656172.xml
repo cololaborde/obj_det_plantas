@@ -1,13 +1,13 @@
 <annotation>
-	<folder>ADVERSIDADES TOMATE</folder>
+	<folder>train</folder>
 	<filename>IMG_20171204_121656172.jpg</filename>
-	<path>C:\Users\mapo\Dropbox\ADVERSIDADES TOMATE\IMG_20171204_121656172.jpg</path>
+	<path>C:\Users\mapo\Documents\GitHub\obj_det_plantas\obj_det_plantas\models\object_detection\data\images\train\IMG_20171204_121656172.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2448</width>
-		<height>3264</height>
+		<width>640</width>
+		<height>480</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>235</xmin>
-			<ymin>1060</ymin>
-			<xmax>478</xmax>
-			<ymax>1252</ymax>
+			<xmin>81</xmin>
+			<ymin>100</ymin>
+			<xmax>129</xmax>
+			<ymax>127</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>264</xmin>
-			<ymin>665</ymin>
-			<xmax>557</xmax>
-			<ymax>905</ymax>
+			<xmin>58</xmin>
+			<ymin>152</ymin>
+			<xmax>124</xmax>
+			<ymax>186</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>857</xmin>
-			<ymin>1408</ymin>
-			<xmax>1121</xmax>
-			<ymax>1638</ymax>
+			<xmin>310</xmin>
+			<ymin>304</ymin>
+			<xmax>331</xmax>
+			<ymax>324</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1473</xmin>
-			<ymin>2253</ymin>
-			<xmax>1685</xmax>
-			<ymax>2414</ymax>
+			<xmin>328</xmin>
+			<ymin>375</ymin>
+			<xmax>365</xmax>
+			<ymax>404</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2202</xmin>
-			<ymin>670</ymin>
-			<xmax>2388</xmax>
-			<ymax>800</ymax>
+			<xmin>383</xmin>
+			<ymin>332</ymin>
+			<xmax>445</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blanca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>573</xmin>
+			<ymin>94</ymin>
+			<xmax>618</xmax>
+			<ymax>121</ymax>
 		</bndbox>
 	</object>
 </annotation>

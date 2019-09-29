@@ -1,13 +1,13 @@
 <annotation>
-	<folder>ADVERSIDADES TOMATE</folder>
+	<folder>test</folder>
 	<filename>IMG_4449.JPG</filename>
-	<path>C:\Users\mapo\Dropbox\ADVERSIDADES TOMATE\IMG_4449.JPG</path>
+	<path>C:\Users\mapo\Documents\GitHub\obj_det_plantas\obj_det_plantas\models\object_detection\data\images\test\IMG_4449.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2048</width>
-		<height>1536</height>
+		<width>640</width>
+		<height>480</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>447</xmin>
-			<ymin>765</ymin>
-			<xmax>588</xmax>
-			<ymax>921</ymax>
+			<xmin>89</xmin>
+			<ymin>88</ymin>
+			<xmax>137</xmax>
+			<ymax>131</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>269</xmin>
-			<ymin>302</ymin>
-			<xmax>446</xmax>
-			<ymax>427</ymax>
+			<xmin>136</xmin>
+			<ymin>235</ymin>
+			<xmax>197</xmax>
+			<ymax>284</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1012</xmin>
-			<ymin>555</ymin>
-			<xmax>1151</xmax>
-			<ymax>694</ymax>
+			<xmin>172</xmin>
+			<ymin>315</ymin>
+			<xmax>225</xmax>
+			<ymax>384</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>555</xmin>
-			<ymin>1049</ymin>
-			<xmax>712</xmax>
-			<ymax>1193</ymax>
+			<xmin>330</xmin>
+			<ymin>318</ymin>
+			<xmax>390</xmax>
+			<ymax>373</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1006</xmin>
-			<ymin>1033</ymin>
-			<xmax>1207</xmax>
-			<ymax>1158</ymax>
+			<xmin>324</xmin>
+			<ymin>175</ymin>
+			<xmax>368</xmax>
+			<ymax>220</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1086</xmin>
-			<ymin>848</ymin>
-			<xmax>1246</xmax>
-			<ymax>967</ymax>
+			<xmin>359</xmin>
+			<ymin>267</ymin>
+			<xmax>394</xmax>
+			<ymax>300</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +89,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1469</xmin>
-			<ymin>416</ymin>
-			<xmax>1551</xmax>
-			<ymax>532</ymax>
+			<xmin>442</xmin>
+			<ymin>255</ymin>
+			<xmax>508</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>negra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>450</xmin>
+			<ymin>133</ymin>
+			<xmax>490</xmax>
+			<ymax>173</ymax>
 		</bndbox>
 	</object>
 </annotation>
