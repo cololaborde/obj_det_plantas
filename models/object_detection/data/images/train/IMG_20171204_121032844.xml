@@ -1,0 +1,38 @@
+<annotation>
+	<folder>ADVERSIDADES TOMATE</folder>
+	<filename>IMG_20171204_121032844.jpg</filename>
+	<path>C:\Users\mapo\Dropbox\ADVERSIDADES TOMATE\IMG_20171204_121032844.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blanca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>805</xmin>
+			<ymin>710</ymin>
+			<xmax>1018</xmax>
+			<ymax>911</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blanca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2170</xmin>
+			<ymin>1474</ymin>
+			<xmax>2581</xmax>
+			<ymax>1901</ymax>
+		</bndbox>
+	</object>
+</annotation>

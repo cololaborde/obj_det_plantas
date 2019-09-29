@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ADVERSIDADES TOMATE</folder>
+	<filename>IMG_4439.JPG</filename>
+	<path>C:\Users\mapo\Dropbox\ADVERSIDADES TOMATE\IMG_4439.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>negra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>839</xmin>
+			<ymin>628</ymin>
+			<xmax>989</xmax>
+			<ymax>724</ymax>
+		</bndbox>
+	</object>
+</annotation>

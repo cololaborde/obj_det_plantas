@@ -1,0 +1,50 @@
+<annotation>
+	<folder>ADVERSIDADES TOMATE</folder>
+	<filename>IMG_4441.JPG</filename>
+	<path>C:\Users\mapo\Dropbox\ADVERSIDADES TOMATE\IMG_4441.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>negra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>687</xmin>
+			<ymin>152</ymin>
+			<xmax>1025</xmax>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>negra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>772</xmin>
+			<ymin>663</ymin>
+			<xmax>910</xmax>
+			<ymax>835</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>negra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1364</xmin>
+			<ymin>513</ymin>
+			<xmax>1731</xmax>
+			<ymax>704</ymax>
+		</bndbox>
+	</object>
+</annotation>
