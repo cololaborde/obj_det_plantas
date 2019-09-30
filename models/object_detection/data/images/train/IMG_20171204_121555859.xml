@@ -83,4 +83,28 @@
 			<ymax>437</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>blanca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>69</ymin>
+			<xmax>292</xmax>
+			<ymax>100</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blanca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>202</ymin>
+			<xmax>63</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
 </annotation>

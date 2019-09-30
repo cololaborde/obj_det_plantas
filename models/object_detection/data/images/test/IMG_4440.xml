@@ -119,4 +119,16 @@
 			<ymax>296</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>negra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>517</xmin>
+			<ymin>251</ymin>
+			<xmax>608</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
 </annotation>

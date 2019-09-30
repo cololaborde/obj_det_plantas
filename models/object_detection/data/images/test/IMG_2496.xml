@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
-	<filename>IMG_1997.JPG</filename>
-	<path>C:\Users\mapo\Documents\GitHub\obj_det_plantas\obj_det_plantas\models\object_detection\data\images\test\IMG_1997.JPG</path>
+	<filename>IMG_2496.JPG</filename>
+	<path>C:\Users\mapo\Documents\GitHub\obj_det_plantas\obj_det_plantas\models\object_detection\data\images\test\IMG_2496.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>blanca</name>
+		<name>negra</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>173</xmin>
-			<ymin>126</ymin>
-			<xmax>256</xmax>
-			<ymax>203</ymax>
+			<xmin>358</xmin>
+			<ymin>211</ymin>
+			<xmax>438</xmax>
+			<ymax>268</ymax>
 		</bndbox>
 	</object>
 </annotation>
