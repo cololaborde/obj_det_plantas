@@ -1,9 +1,9 @@
 item {
     id: 1
-    name: 'blanca'
+    name: 'cladosporium'
 }
 
 item {
     id: 2
-    name: 'negra'
+    name: 'oidio'
 }
