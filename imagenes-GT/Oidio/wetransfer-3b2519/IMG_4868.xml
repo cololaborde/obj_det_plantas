@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wetransfer-3b2519</folder>
+	<filename>IMG_4868.JPG</filename>
+	<path>C:\Users\colo_\Desktop\proyecto-lifia_\Imagenes\Oidio\wetransfer-3b2519\IMG_4868.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blanca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1041</xmin>
+			<ymin>961</ymin>
+			<xmax>1797</xmax>
+			<ymax>1754</ymax>
+		</bndbox>
+	</object>
+</annotation>

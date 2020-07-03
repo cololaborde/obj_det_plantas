@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Nueva carpeta</folder>
+	<filename>IMG_8233.JPG</filename>
+	<path>C:\Users\colo_\Desktop\Nueva carpeta\IMG_8233.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blanca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1560</xmin>
+			<ymin>1202</ymin>
+			<xmax>2119</xmax>
+			<ymax>1779</ymax>
+		</bndbox>
+	</object>
+</annotation>
