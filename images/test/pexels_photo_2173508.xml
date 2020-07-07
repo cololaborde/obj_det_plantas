@@ -1,7 +1,7 @@
 <annotation verified="yes">
 	<folder>test</folder>
 	<filename>pexels_photo_2173508.jpg</filename>
-	<path>C:\Users\mapo\Documents\GitHub\obj_det_plantas\obj_det_plantas\images\test\pexels_photo_2173508.jpg</path>
+	<path>C:\Users\mapo\Documents\GitHub\obj_det_plantas\obj_det_plantas\models\object_detection\data\images\test\pexels_photo_2173508.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
