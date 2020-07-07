@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_4439.JPG</filename>
+	<path>C:\Users\mapo\Documents\GitHub\obj_det_plantas\obj_det_plantas\images\train\IMG_4439.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cladosporium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>125</ymin>
+			<xmax>140</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+</annotation>
