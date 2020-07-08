@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
-	<filename>IMG_20171204_123317632.jpg</filename>
-	<path>C:\Users\mapo\Documents\GitHub\obj_det_plantas\obj_det_plantas\images\train\IMG_20171204_123317632.jpg</path>
+	<folder>test</folder>
+	<filename>IMG_1997.JPG</filename>
+	<path>C:\Users\mapo\Documents\GitHub\obj_det_plantas\obj_det_plantas\images\test\IMG_1997.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>cladosporium</name>
+		<name>oidio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>299</xmin>
-			<ymin>249</ymin>
-			<xmax>361</xmax>
-			<ymax>305</ymax>
+			<xmin>173</xmin>
+			<ymin>126</ymin>
+			<xmax>256</xmax>
+			<ymax>203</ymax>
 		</bndbox>
 	</object>
 </annotation>
