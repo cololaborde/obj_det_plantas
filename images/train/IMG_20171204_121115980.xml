@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>a</name>
+		<name>oidio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1520</xmin>
-			<ymin>1472</ymin>
-			<xmax>1711</xmax>
-			<ymax>1695</ymax>
+			<xmin>1529</xmin>
+			<ymin>1474</ymin>
+			<xmax>1720</xmax>
+			<ymax>1697</ymax>
 		</bndbox>
 	</object>
 </annotation>
