@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20171204_123317632.jpg</filename>
+	<path>C:\Users\mapo\Documents\GitHub\obj_det_plantas\obj_det_plantas\images\train\IMG_20171204_123317632.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>clado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1520</xmin>
+			<ymin>1280</ymin>
+			<xmax>1799</xmax>
+			<ymax>1540</ymax>
+		</bndbox>
+	</object>
+</annotation>
