@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>clado</name>
+		<name>cladosporium</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>295</xmin>
+			<xmin>299</xmin>
 			<ymin>249</ymin>
-			<xmax>347</xmax>
-			<ymax>301</ymax>
+			<xmax>361</xmax>
+			<ymax>305</ymax>
 		</bndbox>
 	</object>
 </annotation>

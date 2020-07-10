@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test</folder>
-	<filename>IMG_20171204_123400861.jpg</filename>
-	<path>C:\Users\mapo\Documents\GitHub\obj_det_plantas\obj_det_plantas\images\test\IMG_20171204_123400861.jpg</path>
+	<folder>train</folder>
+	<filename>IMG_20171204_121241475.jpg</filename>
+	<path>C:\Users\mapo\Documents\GitHub\obj_det_plantas\obj_det_plantas\images\train\IMG_20171204_121241475.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>clado</name>
+		<name>cladosporium</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>249</xmin>
-			<ymin>203</ymin>
-			<xmax>292</xmax>
-			<ymax>262</ymax>
+			<xmin>355</xmin>
+			<ymin>166</ymin>
+			<xmax>447</xmax>
+			<ymax>229</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>clado</name>
+		<name>cladosporium</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>421</xmin>
-			<ymin>158</ymin>
-			<xmax>467</xmax>
-			<ymax>206</ymax>
+			<xmin>23</xmin>
+			<ymin>348</ymin>
+			<xmax>77</xmax>
+			<ymax>385</ymax>
 		</bndbox>
 	</object>
 </annotation>
